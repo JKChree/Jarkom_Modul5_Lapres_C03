@@ -3,17 +3,17 @@
 - Brananda Denta WP - 05111840000143
 - R. Dafa Berlian Denmar - 05111840000149
 ### Outline
-1. [Soal A](##Soal-A)
-2. [Soal B](##Soal-B)
-3. [Soal C](##Soal-C)
-4. [Soal D](##Soal-D)
-5. [Soal 1](##Soal-1)
-6. [Soal 2](##Soal-2)
-7. [Soal 3](##Soal-3)
-8. [Soal 4](##Soal-4)
-9. [Soal 5](##Soal-5)
-10. [Soal 6](##Soal-6)
-11. [Soal 7](##Soal-7)
+1. [Soal A](#Soal-A)
+2. [Soal B](#Soal-B)
+3. [Soal C](#Soal-C)
+4. [Soal D](#Soal-D)
+5. [Soal 1](#Soal-1)
+6. [Soal 2](#Soal-2)
+7. [Soal 3](#Soal-3)
+8. [Soal 4](#Soal-4)
+9. [Soal 5](#Soal-5)
+10. [Soal 6](#Soal-6)
+11. [Soal 7](#Soal-7)
 
 ## Soal A
 Tugas pertama kalian yaitu membuat topologi jaringan sesuai dengan rancangan yang diberikan Bibah seperti dibawah ini :
